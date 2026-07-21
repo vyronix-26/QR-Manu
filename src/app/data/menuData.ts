@@ -21,7 +21,7 @@ export const menuItems: MenuItem[] = [
     price: 40, 
     category: "main_dishes",
      description: "عجينة إيطالية تقليدية مع صلصة الطماطم الغنية وجبن الموزاريلا الفاخر",
-     image: "/img/OIP (1).webp"
+     image: "/public/img/OIP-1.webp"
      },
   { id: "m4", 
     name: "بيتزا دجاج باربكيو", 
@@ -42,7 +42,7 @@ export const menuItems: MenuItem[] = [
      price: 35,
       category: "main_dishes",
        description: "قطع شاورما دجاج متبلة في خبز صاج، تقطع وتقدم مع بطاطس ومقبلات وثومية",
-      image: "/img/OIP (3).webp"
+      image: "/img/OIP-3.webp"
       },
 
   // --- مقبلات وسلطات (appetizers) ---
@@ -65,21 +65,21 @@ export const menuItems: MenuItem[] = [
      price: 15, 
      category: "appetizers",
       description: "حلقات بصل ذهبية مقلية تقدم مع صلصة الباربكيو",
-    image: "/img/OIP (6).webp"
+    image: "/img/OIP-6.webp"
     },
   { id: "a4",
      name: "سلطة سيزر بالدجاج",
       price: 25,
        category: "appetizers",
         description: "خس روماني، قطع دجاج مشوية، خبز محمص، مغطاة بصلصة السيزر وجبن البارميزان",
-      image: "/img/OIP (7).webp"
+      image: "/img/OIP-7.webp"
       },
   { id: "a5",
      name: "سلطة يونانية",
       price: 20,
        category: "appetizers",
         description: "طماطم، خيار، بصل، زيتون أسود، وجبن الفيتا مع زيت الزيتون والزعتر",
-      image: "/img/OIP (8).webp"
+      image: "/img/OIP-8.webp"
       },
 
   // --- مشروبات (drinks) ---
@@ -95,14 +95,14 @@ export const menuItems: MenuItem[] = [
       price: 14,
        category: "drinks",
         description: "مزيج منعش من الليمون الحامض والنعناع الطازج مع الثلج",
-      image: "/img/OIP (4).webp"
+      image: "/img/OIP-4.webp"
       },
   { id: "dr3",
      name: "ميلك شيك شوكولاتة",
       price: 18,
        category: "drinks",
         description: "مخفوق الحليب البارد مع آيس كريم الشوكولاتة والكريمة المخفوقة",
-      image: "/img/OIP (5).jpg"
+      image: "/img/OIP-5.jpg"
       },
   { id: "dr4",
      name: "مشروبات غازية",
@@ -116,7 +116,7 @@ export const menuItems: MenuItem[] = [
       price: 5,
        category: "drinks",
         description: "زجاجة مياه نقية مبردة",
-      image: "/img/OIP (5).webp"
+      image: "/img/OIP-5.webp"
       },
 
   // --- حلويات (desserts) ---
@@ -125,21 +125,21 @@ export const menuItems: MenuItem[] = [
       price: 25,
        category: "desserts", 
        description: "كعكة الشوكولاتة الدافئة المحشوة بالشوكولاتة السائلة تقدم مع كرة آيس كريم فانيليا",
-      image: "/img/OIP (9).webp"
+      image: "/img/OIP-9.webp"
       },
   { id: "de2",
      name: "وافل نوتيلا",
       price: 24,
        category: "desserts",
         description: "قطع الوافل المقرمشة المغطاة بشوكولاتة النوتيلا الغنية وقطع الفراولة",
-      image: "/img/OIP (10).webp"
+      image: "/img/OIP-10.webp"
       },
   { id: "de3",
      name: "سلطة فواكه بالآيس كريم",
       price: 20,
        category: "desserts",
         description: "تشكيلة من الفواكه الموسمية الطازجة مع مغرفة من الآيس كريم",
-      image: "/img/OIP (11).webp"
+      image: "/img/OIP-11.webp"
       },
   { id: "de4",
      name: "تشيز كيك الفراولة",
