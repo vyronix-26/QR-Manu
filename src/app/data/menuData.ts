@@ -21,7 +21,7 @@ export const menuItems: MenuItem[] = [
     price: 40, 
     category: "main_dishes",
      description: "عجينة إيطالية تقليدية مع صلصة الطماطم الغنية وجبن الموزاريلا الفاخر",
-     image: "/public/img/OIP-1.webp"
+     image: "/img/OIP-1.webp"
      },
   { id: "m4", 
     name: "بيتزا دجاج باربكيو", 
@@ -35,7 +35,7 @@ export const menuItems: MenuItem[] = [
       price: 42, 
       category: "main_dishes", 
       description: "معكرونة الفيتوتشيني مع قطع الدجاج والفطر في صلصة الكريمة البيضاء الغنية",
-    image: "/img/OIP (2).webp"
+    image: "/img/OIP-2.webp"
     },
   { id: "m6", 
     name: "وجبة شاورما عربي سوبر",
