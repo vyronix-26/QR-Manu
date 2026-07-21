@@ -9,7 +9,7 @@
 
 /* ضع صورة الخلفية على html و body مع أهمية عالية لتفادي التجاوزات */
 html, body {
-  background-image: url('../img/bbb.jpeg') !important;
+  background-image: url('/img/bbb.jpeg') !important;
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
